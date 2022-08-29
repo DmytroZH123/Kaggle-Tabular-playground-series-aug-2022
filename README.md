@@ -25,6 +25,11 @@ https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data
 ---
 
 ## Comparison of Machine Learning algorithms selected by RandomSearchCV used for probability estimation:
+<img src = "">
+<img src = "">
+<img src = "">
+<img src = "">
+<img src = "">
 
 ---
 
