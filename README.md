@@ -10,6 +10,8 @@ The task is to use the data to predict individual product failures of new codes 
 
 To see the full project click on the <a href= "ZhukDmytro Kaggle Tabular Playground Series - Aug 2022 - among 45% .ipynb"> ZhukDmytro Kaggle Tabular Playground.ipynb </a>file.
 
+---
+
 ## The data:
 
 https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data
@@ -19,3 +21,5 @@ https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data
 3. attribute_0, attribute_1, attribute_2, attribute_3 - Product attributes
 4. measurement_0, measurement_1, ..., measurement_17 - Individual measurement values
 5. failure - Target value
+
+---
