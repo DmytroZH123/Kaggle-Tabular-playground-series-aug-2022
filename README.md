@@ -23,3 +23,9 @@ https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data
 5. failure - Target value
 
 ---
+
+## Comparison of Machine Learning algorithms used for probability estimation:
+
+---
+
+## Summary: 
