@@ -1,6 +1,6 @@
 # Kaggle-Tabular-playground-series-aug-2022
 
-Successfully participated in Kaggle Competition "Tabular Playground Series August 2022".  
+Successfully participated in Kaggle Competition "Tabular Playground Series August 2022", top 45%.  
 The main product of the Keep It Dry company Super Soaker, used in factories to absorb spills and leaks, is needed to be improved. 
 
 This data represents the results of a large product testing study. The company has just completed a large testing study for different product prototypes.
@@ -29,3 +29,5 @@ https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data
 ---
 
 ## Summary: 
+
+The best algortihm here is Logistic Regression with C=0.78 parameter, L1 regularization and solver 'saga'.
