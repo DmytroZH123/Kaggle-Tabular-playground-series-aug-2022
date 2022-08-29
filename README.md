@@ -12,3 +12,10 @@ To see the full project click on the <a href= "ZhukDmytro Kaggle Tabular Playgro
 
 ## The data:
 
+https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data
+
+1. product_code - Code of the certain product
+2. loading - Amount of fluid absorbed
+3. attribute_0, attribute_1, attribute_2, attribute_3 - Product attributes
+4. measurement_0, measurement_1, ..., measurement_17 - Individual measurement values
+5. failure - Target value
