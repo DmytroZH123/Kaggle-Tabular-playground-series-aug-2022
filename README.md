@@ -8,7 +8,7 @@ For each product_code is given a number of product attributes as well as a numbe
 
 The task is to use the data to predict individual product failures of new codes with their individual lab test results.
 
-To see the full project click on the <a href= > test1DmytoZhuk.ipynb </a>file.
+To see the full project click on the <a href= "ZhukDmytro Kaggle Tabular Playground Series - Aug 2022 - among 45% .ipynb"> test1DmytoZhuk.ipynb </a>file.
 
 ## The data:
 
