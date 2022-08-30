@@ -35,4 +35,4 @@ https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data
 
 ## Summary: 
 
-The best algortihm here is Logistic Regression with C=0.78 parameter, L1 regularization and solver 'saga'.
+The best algortihm here is Logistic Regression with C=0.33 parameter, L1 regularization and solver 'saga'.
